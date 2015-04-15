@@ -1,0 +1,7 @@
+setwd("put your directory name here") 
+stocks <- read.csv("amazon.csv")
+stocks.ts <- ts(stocks)
+install.packages("forecast",dependencies=TRUE)
+library(forecast)
+stocks.forecast <- forecast(stocks.ts)
+plot(stocks.forecast)
