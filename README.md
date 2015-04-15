@@ -1,3 +1,1 @@
-# Ashesi-LinkedIN-profile-network-analysis
-Visual Ashesi'-s professional network '- Anthony Kwawu
-data source my linked in account
+Forecast Amazon Stock prices using solid R statistical analysis
